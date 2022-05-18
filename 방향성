@@ -1,15 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-05-18T17:00:02.527Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="OlWuGnOoVCozb1DBCPB5" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-18T17:30:56.277Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="-_Jyw5cDyRNlXTAN-j5i" version="18.0.7" type="github">
   <diagram id="XEfbNWtIemBc3izbBUAT" name="Page-1">
-    <mxGraphModel dx="-503" dy="-1226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="-427" dy="-2004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iZ_7MskiLQU0KOdVQwGe-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;일단 본업 기반(~40살)은 확실하게 박아놓아야 삶에 안정감이 있다.&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;// 30부터는 지식이 아닌 &#39;코칭&#39;으로 나아가고(=&amp;gt; 스케일업까지 계획), &#39;투자&#39;는 지속. 100억 꿈나무.&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;2022(29, 2년차) _본업 지식 박아놓기 (기술적, 도메인적 지식)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;- 0930 - 1015 &amp;amp; 1800 - 1900 : 딥다이브 -&amp;gt; 정리 -&amp;gt; 공유 // 나머지 시간: 몰입해서 생산성 끌어올리기&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;- 본업 딥다이브 80:20 &amp;amp; 기술들 딥다이브 -&amp;gt; 정리 -&amp;gt; 공유 -&amp;gt; 피드백 받고 개선&amp;nbsp; // CS 기본 지식도 운영관점에서 딥다이브.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; - 영민님과 서로 코칭 제안. 1이슈 1아티클 =&amp;gt; 아티클 쓰는 훈련. 일단 양으로.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;- &lt;b&gt;투자자의 뇌&lt;/b&gt;: 행동하는 투자자. 투자일지와 함께 정리. 100억 꿈나무 to-do list부터.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;2023(30, 3년차)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; - AC2 과정에서 &#39;코칭&#39; &amp;amp; &#39;애자일&#39; 전부 빡독 -&amp;gt; 씹어먹기&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; - 빡독 - 서평 - 공유 및 피드백 - 개선&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; =&amp;gt; F-lab 시작으로 AC2 코치까지.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;// 이 과정에서 &#39;투자자&#39;로서의 길 나아가기. ----&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;// 본업은 &#39;개발 -&amp;gt; 코칭&#39;으로 나아가기&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="1690" width="660" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="iZ_7MskiLQU0KOdVQwGe-4" value="&lt;b&gt;생각 메모&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1175" y="1660" width="60" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="iZ_7MskiLQU0KOdVQwGe-5" value="&lt;b&gt;길&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1179" y="2492" width="30" height="20" as="geometry" />
         </mxCell>
@@ -35,13 +29,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iZ_7MskiLQU0KOdVQwGe-7" value="서평" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1500" y="2660" width="40" height="20" as="geometry" />
+          <mxGeometry x="1500" y="2690" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iZ_7MskiLQU0KOdVQwGe-9" value="다양한 관점 - 씽큐베이션" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="2660" width="130" height="20" as="geometry" />
+          <mxGeometry x="1600" y="2690" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iZ_7MskiLQU0KOdVQwGe-16" value="투자 철학 - 철학, 투자자, 전략" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="2700" width="160" height="20" as="geometry" />
+          <mxGeometry x="1600" y="2730" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iZ_7MskiLQU0KOdVQwGe-28" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBorderColor=none;fontSize=10;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iZ_7MskiLQU0KOdVQwGe-22" target="iZ_7MskiLQU0KOdVQwGe-23">
           <mxGeometry relative="1" as="geometry" />
@@ -49,29 +43,32 @@
         <mxCell id="iZ_7MskiLQU0KOdVQwGe-72" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBorderColor=none;fontSize=10;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iZ_7MskiLQU0KOdVQwGe-22" target="iZ_7MskiLQU0KOdVQwGe-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-89" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBorderColor=none;fontSize=10;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iZ_7MskiLQU0KOdVQwGe-22" target="iZ_7MskiLQU0KOdVQwGe-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iZ_7MskiLQU0KOdVQwGe-22" value="일지" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1500" y="2540" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iZ_7MskiLQU0KOdVQwGe-23" value="투자일지 : 모니터링 &amp;amp; 내 생각" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="2540" width="160" height="20" as="geometry" />
+          <mxGeometry x="1600" y="2540" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iZ_7MskiLQU0KOdVQwGe-24" value="- 신문(한경, 조선일보)부터 시작해서 김승호님처럼 모닝 루틴 만들기. 탁월함과 통찰로 가는 축적의 시간" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="2560" width="420" height="20" as="geometry" />
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-24" value="- 신문(한경O, 조선일보_정치 리스크 있음. 반대편 reference 도 무조건 넣기)부터 시작해서 김승호님처럼 모닝 루틴 만들기. 탁월함과 통찰로 가는 축적의 시간" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="2560" width="640" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iZ_7MskiLQU0KOdVQwGe-37" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.505;entryDx=0;entryDy=0;entryPerimeter=0;labelBorderColor=none;fontSize=10;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iZ_7MskiLQU0KOdVQwGe-30" target="iZ_7MskiLQU0KOdVQwGe-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iZ_7MskiLQU0KOdVQwGe-30" value="큐레이션" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1500" y="2750" width="60" height="20" as="geometry" />
+          <mxGeometry x="1500" y="2780" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iZ_7MskiLQU0KOdVQwGe-31" value="영상, 글 등 reference curation 및 내 생각 정리" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="2750" width="240" height="20" as="geometry" />
+          <mxGeometry x="1600" y="2780" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iZ_7MskiLQU0KOdVQwGe-35" value="- 시리즈 컨텐츠: 머니맵 신박사님 전부 / 월가아재 교육 시리즈 전부" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1615" y="2770" width="280" height="20" as="geometry" />
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-35" value="- 시리즈 컨텐츠(따로 목차 뺴기): 머니맵 신박사님 전부 / 월가아재 교육 시리즈 전부" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1615" y="2800" width="340" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iZ_7MskiLQU0KOdVQwGe-38" value="- 유튜브 커뮤니티 글(돈깡, 월가아재 등)은 비공개 처리 but&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1615" y="2791" width="250" height="20" as="geometry" />
+          <mxGeometry x="1615" y="2821" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iZ_7MskiLQU0KOdVQwGe-39" value="- 정리는 draw.io 로." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1640" y="2577" width="100" height="20" as="geometry" />
@@ -79,38 +76,122 @@
         <mxCell id="iZ_7MskiLQU0KOdVQwGe-59" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBorderColor=none;fontSize=10;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" source="iZ_7MskiLQU0KOdVQwGe-60" target="iZ_7MskiLQU0KOdVQwGe-62" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iZ_7MskiLQU0KOdVQwGe-60" value="행복한 투자자의 뇌" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1330" y="2910" width="110" height="20" as="geometry" />
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-85" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.058;entryY=0.496;entryDx=0;entryDy=0;entryPerimeter=0;labelBorderColor=none;fontSize=10;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iZ_7MskiLQU0KOdVQwGe-60" target="iZ_7MskiLQU0KOdVQwGe-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-60" value="From Agile Coach to Life Coach" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1340" y="3000" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iZ_7MskiLQU0KOdVQwGe-61" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBorderColor=none;fontSize=10;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" source="iZ_7MskiLQU0KOdVQwGe-62" target="iZ_7MskiLQU0KOdVQwGe-63" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iZ_7MskiLQU0KOdVQwGe-62" value="투자일지" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1500" y="2910" width="60" height="20" as="geometry" />
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-93" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBorderColor=none;fontSize=10;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iZ_7MskiLQU0KOdVQwGe-62" target="iZ_7MskiLQU0KOdVQwGe-90">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iZ_7MskiLQU0KOdVQwGe-63" value="모니터링 &amp;amp; 내 생각" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1595" y="2910" width="110" height="20" as="geometry" />
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-98" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBorderColor=none;fontSize=10;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iZ_7MskiLQU0KOdVQwGe-62" target="iZ_7MskiLQU0KOdVQwGe-97">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iZ_7MskiLQU0KOdVQwGe-64" value="- 신문(한경, 조선일보)부터 시작해서 김승호님처럼 모닝 루틴 만들어가는 과정" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1615" y="2930" width="320" height="20" as="geometry" />
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-106" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.486;entryDx=0;entryDy=0;entryPerimeter=0;labelBorderColor=none;fontSize=10;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iZ_7MskiLQU0KOdVQwGe-62" target="iZ_7MskiLQU0KOdVQwGe-103">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iZ_7MskiLQU0KOdVQwGe-65" value="- 정리는 draw.io 로." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1615" y="2947" width="100" height="20" as="geometry" />
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-107" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBorderColor=none;fontSize=10;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iZ_7MskiLQU0KOdVQwGe-62" target="iZ_7MskiLQU0KOdVQwGe-101">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iZ_7MskiLQU0KOdVQwGe-66" value="[&amp;nbsp; ] 돈깡, 월가아재 커뮤니티글 1개씩 정리&lt;br&gt;[&amp;nbsp; ] 이춘근 박사와의 만남 _1강 간단 정리 시작. 나의 목적과 질문도.&lt;br&gt;[&amp;nbsp; ] tistory 서평 옮겨놓기&lt;br&gt;[&amp;nbsp; &amp;nbsp;] (추후) 뉴욕주민 미국주식 서평 후, 각 종목 분석 및 모니터링 시작&lt;br&gt;(테슬라, 애플, 엔비디아 등)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1915" y="2690" width="275" height="90" as="geometry" />
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-62" value="지금 서있는 자리에서" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1600" y="3080" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-63" value="29(2022, 2년차_석사 제외) : &lt;b&gt;기반기술 deep dive - 5년차까지 활용 &amp;amp; TIL&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="3080" width="380" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-64" value="- 0930 - 1015 &amp;amp; 1800 - 1900 : 딥다이브 -&amp;gt; 정리 -&amp;gt; 공유 // 나머지 시간: 몰입해서 생산성 끌어올리기" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1804" y="3103" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-65" value="- 서로 코칭 제안 =&amp;gt; 2주 1아티클 훈련 (only tech share)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1804" y="3120" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-66" value="[&amp;nbsp; ] 돈깡, 월가아재 커뮤니티글 1개씩 정리&lt;br&gt;[&amp;nbsp; ] 이춘근 박사와의 만남 _1강 간단 정리 시작. 나의 목적과 질문으로 시작.&lt;br&gt;[&amp;nbsp; ] tistory 서평 옮겨놓기.&lt;br&gt;[&amp;nbsp; &amp;nbsp;] (추후) 뉴욕주민 미국주식 서평 후, 각 종목 분석 및 모니터링 시작&lt;br&gt;(테슬라, 애플, 엔비디아 등)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="2690" width="315" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-77" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.505;entryDx=0;entryDy=0;entryPerimeter=0;labelBorderColor=none;fontSize=10;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iZ_7MskiLQU0KOdVQwGe-67" target="iZ_7MskiLQU0KOdVQwGe-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-80" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBorderColor=none;fontSize=10;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iZ_7MskiLQU0KOdVQwGe-67" target="iZ_7MskiLQU0KOdVQwGe-79">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iZ_7MskiLQU0KOdVQwGe-67" value="비공개" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1500" y="2840" width="50" height="20" as="geometry" />
+          <mxGeometry x="1500" y="2870" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iZ_7MskiLQU0KOdVQwGe-69" value="[1] 국제정치학 개론 - 이춘근 박사와의 만남" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="2840" width="220" height="20" as="geometry" />
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-69" value="메모" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="2870" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iZ_7MskiLQU0KOdVQwGe-71" value="시장, 기업, 투자 철학 등에 대한 이모저모" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="2610" width="210" height="20" as="geometry" />
+          <mxGeometry x="1600" y="2650" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iZ_7MskiLQU0KOdVQwGe-74" value="- 투자기업 기업분석부터 시작" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="2630" width="130" height="20" as="geometry" />
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-75" value="- 타인이 &#39;정치색&#39;이 있다고 &lt;br&gt;&amp;nbsp; &amp;nbsp;오해할 수 있는 글" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1505" y="2889" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-79" value="[시리즈 #1] 국제정치학 개론 - 이춘근 박사와의 만남" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="2910" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-84" value="Why?" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1600" y="3000" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-86" value="Why? 이거 글로 정리하기. 간결하게.&lt;br&gt;&lt;br&gt;&#39;평생&#39; 본업에 대한 생각. 왜 코칭인지? 왜 애자일 코칭인지?&lt;br&gt;scale up 은 어떻게 생각하는지?&lt;br&gt;추후 라이프코치? 비즈니스코치?&lt;br&gt;주의할점은? - 너무 퍼지면 아무것도 안됨&lt;br&gt;///// &#39;지옥&#39; 서평 drawio 참고&lt;br&gt;&amp;nbsp;++ 도해, 생각정리, 질문하는 법, design thinking 등.&lt;br&gt;=&amp;gt; jobs to be done approach&lt;br&gt;&lt;br&gt;나의 중추쾌감?&amp;nbsp; vision - 사람, 커뮤니티, 코칭&lt;br&gt;&lt;br&gt;&lt;div style=&quot;font-size: 12px; text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;일단 본업 기반(~40살)은 확실하게 박아놓아야 삶에 안정감이 있다.&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px; text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;// 30부터는 지식이 아닌 &#39;코칭&#39;으로 나아가고(=&amp;gt; 스케일업까지 계획), &#39;투자&#39;는 지속. 100억 꿈나무.&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px; text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px; text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;본업은 &#39;개발 -&amp;gt; 코칭&#39;으로 나아가기&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="3420" width="550" height="202" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-87" value="- 정리는 draw.io 로." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="2594" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-88" value="부동산일지 : 임장 느낌, 생각 등" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="2620" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-90" value="30(2023, 3년차) - &lt;b&gt;스스로 AC2 훈련&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="3160" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-91" value="- AC2 과정에서 &#39;코칭&#39; &amp;amp; &#39;애자일&#39; 전부 빡독 -&amp;gt; 적용 -&amp;gt; 서평 -&amp;gt; 공유 및 피드백 -&amp;gt; 개선" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1804" y="3180" width="350" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-92" value="- 비즈니스 코칭도 같이" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1804" y="3200" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-95" value="- 1주 1아티클 훈련 (tech share / off-topic: 비즈니스도 시작)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1804" y="3220" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-97" value="31~32 (2024~2025, 4~5년차) - &lt;b&gt;사업화 &amp;amp; scale up&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="3260" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-99" value="- 사업화: F-lab, 엔지니어링데이, deview 발표 등을 통해 브랜딩 &amp;amp; 사업화" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1804" y="3280" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-100" value="- scale up: 초봉 0.5억 =&amp;gt; 6년차 원천징수 5억" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1804" y="3300" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-101" value="33~39 (2026~2035) - &lt;b&gt;경제적 자유를 위한 준비 (본업의 비전과 현금흐름)&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="3340" width="370" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-103" value="40~ : 경제적 자유. 자유로운 투자자로서의 삶." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="3380" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-104" value="&lt;b&gt;Q. 나는 평생 어떤 길을 걷고 싶은 것일까? &lt;br&gt;&lt;/b&gt;&lt;b&gt;&#39;코칭&#39;&lt;/b&gt;이라는 키워드가 일관되게 지속되어왔고, &#39;코칭&#39;이라는 단어가 내 중추쾌감을 울린다는 것만큼은 확실하다.&lt;br&gt;// &lt;b&gt;단순히 우월감은 아닐지 경계해야한다. &#39;코칭&#39;에 대한 있는 그대로의 내 마음은 무엇인가&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2389" y="3410" width="391" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-105" value="스터디코드(조남호 코치) -&amp;gt; 라이프코드 // 함께자라기 - AC2 과정 //&lt;br&gt;고2,3? 멘토링 프로젝트(은정썜) // 신박사tv 를 계속 보며, 생각하는 방식을 접하는 것 //&lt;br&gt;운동 코칭 재미 // 오은영 박사님의 상담 유튜브(금쪽이)에 대한 관심 //&lt;br&gt;물리트니스킴, yun_axis 등이 하시는 재활-운동 코칭 //&lt;br&gt;저스트펀크루 리더 정한별, AOMG 전리더 박재범 등__&#39;크루&#39; //&lt;br&gt;Xingmove__&#39;움직이는삶&#39;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2360" y="3500" width="440" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-114" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBorderColor=none;fontSize=10;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iZ_7MskiLQU0KOdVQwGe-109" target="iZ_7MskiLQU0KOdVQwGe-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-109" value="움직이는 삶" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1340" y="3480" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-112" value="&#39;바디&#39; 프로필이 아닌 &#39;움직임&#39; 프로필 - Instagram" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="3480" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-115" value="- &lt;b&gt;원하는 움직임 하나 성공 시, 영상 &amp;amp; 생각 기록&lt;/b&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;ex. 프론트 스쿼트 100kg, 물구나무서기(머리서기부터 단계별)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="3505" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iZ_7MskiLQU0KOdVQwGe-116" value="- &lt;b&gt;매년, yearly moving profile 영상 찍기 - 평생 기록 의미&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="3545" width="300" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
